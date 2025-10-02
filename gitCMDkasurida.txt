@@ -1,0 +1,5 @@
+git config --global  user.name "Irina Merkulova"
+git config --global user.email "irina.merkulova@gmail.com"
+git init
+git config --global --list
+
