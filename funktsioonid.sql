@@ -10,3 +10,5 @@ Cast(BirthDate as Date) as DOB
 From dbo.DimEmployee);
 --käivita funktsiooni
 SELECT * FROM fn_ILTVF_GetEmployees();
+
+---teine funktsioon
